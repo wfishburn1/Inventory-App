@@ -1,6 +1,6 @@
 **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
 
-The app I developed aimed to address the need for efficient inventory management, particularly for small businesses or individuals handling personal inventories. The goal was to provide a user-friendly interface for adding, updating, and deleting items from the inventory, along with the ability to view the current inventory status at a glance.
+The goal for the app I developed was to address the need for efficient inventory management, the target market being small businesses and private individuals. The objective was to provide a user-friendly interface for adding, updating, and deleting items from the inventory, along with the ability to view the current inventory status at a glance.
 
 **What screens and features were necessary to support user needs and produce a user-centered UI for the app?** 
 
@@ -10,6 +10,7 @@ The app I developed aimed to address the need for efficient inventory management
 -Screen for adding a new item to the inventory.
 -Screen for editing existing item details.
 -Functionality to delete items from the inventory. 
+-Functionality to log out.
 
 **How did your UI designs keep users in mind? Why were your designs successful?**
 My UI designs kept users in mind by ensuring simplicity, intuitive navigation, and clear labeling of functions. I found success by focusing on minimalism and prioritizing the most important actions for the user.
